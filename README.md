@@ -18,12 +18,16 @@ Here are some ideas to get you started:
 
 📫 **How to reach me:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaidik-g-08b679102/)](https://www.linkedin.com/in/saujanya-pandey-0b490b18b/)
-
 <p align="left">
   <a href="mailto:saujanya.pandey2000@gmail.com">
     <img alt="Email" title="saujanya.pandey2000@gmail.com" 
       src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"
+    />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/saujanya-pandey-0b490b18b/">
+    <img alt="LinkedIn" title="LinkedIn" 
+      src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"
     />
   </a>
 </p>
@@ -32,6 +36,12 @@ Here are some ideas to get you started:
   <a href="https://saujanya0910.github.io/portfolio-website-1/">
     <img alt="Portfolio" title="Portfolio" 
       src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"
+    />
+  </a>
+  
+  <a href="https://drive.google.com/file/d/1puNzgz7HpuvMAUbWYOyzYpgVAr2lI-tr/view">
+    <img alt="Resume" title="Resume" 
+      src="https://img.shields.io/badge/-Resume-010888?style=for-the-badge&logo=koding&logoColor=white"
     />
   </a>
 </p>
