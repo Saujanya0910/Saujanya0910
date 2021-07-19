@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     />
   </a>
   
-  <a href="https://drive.google.com/file/d/1puNzgz7HpuvMAUbWYOyzYpgVAr2lI-tr/view">
+  <a href="https://drive.google.com/file/d/1NpQvRto48synNqGNFrbW1ETX3nVRV2en/view">
     <img alt="Resume" title="Resume" 
       src="https://img.shields.io/badge/-Resume-010888?style=for-the-badge&logo=koding&logoColor=white"
     />
