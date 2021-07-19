@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 📫 **How to reach me:**
 
 <p align="left">
-  <a href="mailto:saujanya.pandey2000@gmail.com">
+  <a href="mailto:saujanya.pandey2000@gmail.com" target="_blank">
     <img alt="Email" title="saujanya.pandey2000@gmail.com" 
       src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"
     />
   </a>
   
-  <a href="https://www.linkedin.com/in/saujanya-pandey-0b490b18b/">
+  <a href="https://www.linkedin.com/in/saujanya-pandey-0b490b18b/" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" 
       src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"
     />
@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <a href="https://saujanya0910.github.io/portfolio-website-1/">
+  <a href="https://saujanya0910.github.io/portfolio-website-1/" target="_blank">
     <img alt="Portfolio" title="Portfolio" 
       src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"
     />
   </a>
   
-  <a href="https://drive.google.com/file/d/1NpQvRto48synNqGNFrbW1ETX3nVRV2en/view">
+  <a href="https://drive.google.com/file/d/1NpQvRto48synNqGNFrbW1ETX3nVRV2en/view" target="_blank">
     <img alt="Resume" title="Resume" 
       src="https://img.shields.io/badge/-Resume-010888?style=for-the-badge&logo=koding&logoColor=white"
     />
