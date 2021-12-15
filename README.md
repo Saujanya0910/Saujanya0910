@@ -1,5 +1,5 @@
 ## Hi there 👋
-**I'm a part-time *football* fan, and a full-time *programmer*/*developer***
+**I'm  full-time *programmer*/*developer* and a part-time *football* follower**
 
 <!--
 **Saujanya0910/Saujanya0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <a href="https://saujanya0910.github.io/portfolio-website-1/" target="_blank">
+  <!-- <a href="https://saujanya0910.github.io/portfolio-website-1/" target="_blank">
     <img alt="Portfolio" title="Portfolio" 
       src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"
     />
-  </a>
+  </a> -->
   
-  <a href="https://drive.google.com/file/d/1NpQvRto48synNqGNFrbW1ETX3nVRV2en/view" target="_blank">
-    <img alt="Resume" title="Resume" 
+  <a href="https://drive.google.com/file/d/1yywxLA7_gRRRz8Fl9xBN_yY_qJv_pP1e/view" target="_blank">
+    <img alt="Resume" title="Resume"
       src="https://img.shields.io/badge/-Resume-010888?style=for-the-badge&logo=koding&logoColor=white"
     />
   </a>
@@ -77,6 +77,36 @@ Here are some ideas to get you started:
             <a href="#">
               <img alt="Vue.js" title="Vue.js" height="28px"
                 src="https://img.icons8.com/color/50/000000/vue-js.png" 
+              />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="#">
+              <img alt="React.js" title="React.js" height="28px"
+                src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png" 
+              />
+            </a>
+          </td>
+          <td>
+            <a href="#">
+              <img alt="Node.js" title="Node.js" height="28px"
+                src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" 
+              />
+            </a>
+          </td>
+          <td>
+            <a href="#">
+              <img alt="Express.js" title="Express.js" height="28px"
+                src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" 
+              />
+            </a>
+          </td>
+          <td>
+            <a href="#">
+              <img alt="Firebase" title="Firebase" height="28px"
+                src="https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg" 
               />
             </a>
           </td>
