@@ -1,5 +1,5 @@
 ## Hi there 👋
-**I'm  full-time *programmer*/*developer* and a part-time *football* follower**
+**I'm  full-time *programmer*/*developer* 👨‍💻 and a part-time *football* enthusiast ⚽**
 
 <!--
 **Saujanya0910/Saujanya0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
